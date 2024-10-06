@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: gmail:@henrique.enis@gmail.com or instagram: @henriquemwndb
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I'm currently in my first year of high school, and I plan to work in programming when I graduate
+- ⚡ Fun fact: I'm currently in my first year of high school, and I plan to work in programming when I graduate and i live in Brazil but i want to work in another country, also when i graduate
 
 <!---
 THLRyZe/THLRyZe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
